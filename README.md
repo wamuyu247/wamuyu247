@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on remote sotware development
-- 📫 How to reach me faithwamuyu247@gmail.com
+- 📫 How to reach me favourdev321@gmail.com
 
 <!---
 wamuyu247/wamuyu247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
